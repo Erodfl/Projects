@@ -1,8 +1,8 @@
-<h1>Hi, I'm Elvis! <br/><a href="https://www.linkedin.com/in/elvisrodriguezr/">Analytics Professional</a></h1>
+<h1>Welcome to my projects! <br/><a href="https://www.linkedin.com/in/elvisrodriguezr/">Analytics Professional</a></h1>
 
 
 
-<h2>👨‍💻 Supporting Documents:</h2>
+<h2>👨‍💻 Projects</h2>
 
 - <b>Resume</b>
   - [My Professional Profile](https://github.com/Erodfl/Resume)
