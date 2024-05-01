@@ -7,7 +7,7 @@
 - <b>Resume</b>
   - [My Professional Profile](https://github.com/Erodfl/Resume)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Test Project](https://github.com/Erodfl/Analytics)
+  - [Data Insights Dashboard: Tableau Visualization Showcase](https://github.com/Erodfl/Analytics)
   - [Praciting DS & Algos in Python](https://github.com/Erodfl/Analytics)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
